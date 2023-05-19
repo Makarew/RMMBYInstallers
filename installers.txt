@@ -1,2 +1,3 @@
 RWBY: Arrowfell;rmmbyaf;Mods
 Neon White;rmmbyneon;Mods;Levels;Levels;Stages;Levels
+Idol Showdown;rmmbyidol;Mods;Characters;Palettes
